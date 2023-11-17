@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Switch</string>
+    
+    <string name="s_toast">Toast</string>
+    <string name="s_snackbar">Snackbar</string>
+    <string name="s_color">Смена цвета</string>
+
+    <string name="s_text_on">Включено</string>
+    <string name="s_text_off">Выключено</string>
+
+
+</resources>
